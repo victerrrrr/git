@@ -6,5 +6,6 @@ public class GetTest {
         System.out.println("get_02");
         System.out.println("get_03");
         System.out.println("get_04");
+        System.out.println("hot-fix test!");
     }
 }
